@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/cs744.dir/main.cpp.o  -o cs744 
